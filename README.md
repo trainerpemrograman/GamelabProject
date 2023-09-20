@@ -7,7 +7,7 @@
 3. kiw kiw cekurukuk
 4. halo guys saya bahrul
 5. Anggit
-6.
+6. Adi Kusuma
 7. Nanda
 8. Eka Prasetyo
 9. Gamelab
