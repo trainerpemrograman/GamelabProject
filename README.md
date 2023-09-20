@@ -7,3 +7,5 @@
 3. kiw kiw
 4. bismillah
 5.
+6.
+7. Nanda
