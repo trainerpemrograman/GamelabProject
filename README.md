@@ -12,3 +12,4 @@
 8. Eka Prasetyo
 9. Gamelab
 10. Indonesia
+11. tedy
