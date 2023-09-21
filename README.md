@@ -24,4 +24,3 @@
 20. Yuli P
 21. Fahri
 22. donny damara
-23. Fina 24
