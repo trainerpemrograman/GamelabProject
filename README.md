@@ -18,7 +18,11 @@
 14. Fatchan Muhammad Hakim
 15. Testya
 16. Anisa Rachmadani Hendrian
+<<<<<<< HEAD
 17. coba
 18. hhalo
 19. test
 20. hai
+=======
+17. Jajasan Pasar
+>>>>>>> eada5d4a27893548b6e0a121bd28697d5fd3db48
