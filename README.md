@@ -20,7 +20,7 @@
 16. Anisa Rachmadani Hendrian
 17. Jajasan Pasar
 18. Azalea Craft
-19. Parfumku
+19. Sa
 20. Yuli P
 21. Fahri
 22. donny damara
@@ -31,3 +31,4 @@
 27. Andika
 28. Nikolaus Pastika Bara Satyaradi
 29. Alamul Hudhudhud
+30. Saiful Rizal
